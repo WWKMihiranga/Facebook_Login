@@ -135,3 +135,59 @@ span{
     font-size: small;
     border-style: none;
 }
+
+.footer {
+    display: flex;
+    background-color: white;
+    position: absolute;
+    bottom: -5rem;
+    left: 0;
+    width: 100%;
+}
+
+.footer-text a{
+    text-decoration: none;
+    color: #737373;
+    background-color: white;
+    word-spacing: 12px;
+}
+
+.footer-text p{
+    text-decoration: none;
+    color: #737373;
+    background-color: white;
+    word-spacing: 12px;
+    margin-bottom: 6px;
+}
+
+.footer-text{
+    background-color: white;
+    font-size: small;
+    margin-left: 15rem;
+}
+
+.links{
+    background-color: white;
+    margin-top: 2.5rem;
+    margin-bottom: -1.5rem;
+}
+
+h3{
+    background-color: white;
+    color: #737373;
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: -8px;
+
+}
+
+button{
+    font-size: 1rem; 
+    font-weight: bold;
+    color: #737373;
+    padding: 2px 8px;
+    border: 1px solid;
+    border-radius: 4px; 
+    cursor: pointer;
+
+}
